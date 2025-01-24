@@ -18,30 +18,20 @@
 ###
 
 <div align="left">
-  <a href="https://html.spec.whatwg.org/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="40" alt="html5 logo" />
-  </a>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" alt="css3 logo" />
-  </a>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="javascript logo" />
-  </a>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  
-  <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" height="40" alt="sass logo" />
-  </a>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" height="40" alt="sass logo" />
   <img width="12" />
-  
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40" alt="react logo" />
-  </a>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40" alt="react logo"  />
 </div>
+
+
+
+
 
 
 ###
