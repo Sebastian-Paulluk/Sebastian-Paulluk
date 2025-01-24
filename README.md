@@ -1,13 +1,6 @@
 <h1 align="center"> Hola, soy Sebastián Jonatan Paulluk 👋 </h1>
 
 ###
-<!--
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/lang-español-blue.svg" alt="es">
-  </a>
-</p>
--->
 
 <p align="left">Soy estudiante de programación con una gran pasión por el desarrollo web frontend. Me encanta crear aplicaciones interactivas y eficientes. A medida que aprendo y crezco como programador, siempre busco nuevos proyectos para explorar y mejorar mis habilidades. En mi tiempo libre, me dedico a profundizar en mis conocimientos y experimentar con nuevas herramientas y técnicas.</p>
 
