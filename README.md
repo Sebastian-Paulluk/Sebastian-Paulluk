@@ -7,7 +7,7 @@
 - 📚 I’m currently learning…
   - [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   - [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-- Outside of programming, I enjoy making music 🎸 and playing video games 🎮.
+- Besides programming, I enjoy making music 🎸 and playing video games 🎮.
 - ✉️ You can reach me at: [sebastianpaulluk@gmail.com](mailto:sebastianpaulluk@gmail.com)
 
 
@@ -53,7 +53,7 @@
   - 📚 Actualmente estoy aprendiendo ...
   - [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   - [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-  - Fuera de la programación, disfruto hacer música 🎸 y jugar videojuegos 🎮.
+  - Además de la programación, disfruto hacer música 🎸 y jugar videojuegos 🎮.
   - ✉️ Podés contactarme a: [sebastianpaulluk@gmail.com](mailto:sebastianpaulluk@gmail.com)
   
   ###
