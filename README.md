@@ -38,7 +38,6 @@
 [![instragram][instragram]][instragramURL]
 [![facebook][facebook]][facebookURL]
 
-<br>
 
 ---
 
