@@ -42,9 +42,9 @@
 ---
 
 <details>
-  <summary><img src="https://drive.usercontent.google.com/download?id=1TIbJFGfaGP_uy6K0FEpREr4EuxMMxmUv&export=view&authuser=0" /> <h4>Español</h4></summary>
+   <summary> Español &nbsp; <img src="https://drive.usercontent.google.com/download?id=1TIbJFGfaGP_uy6K0FEpREr4EuxMMxmUv&export=view&authuser=0" />  </summary>
   
-  # Hola, soy Sebastián 👋
+  # Hola, soy Sebastián! 👋
   
   ###
   
@@ -83,7 +83,6 @@
   [![facebook][facebook]][facebookURL]
   
 </details>
-
 
 
  <!-- MARKDOWN LINKS & IMAGES -->
