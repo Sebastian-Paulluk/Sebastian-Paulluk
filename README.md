@@ -43,46 +43,46 @@
 ---
 
 <details>
-  <summary>Español</summary>
+  <summary><img src="https://drive.usercontent.google.com/download?id=1TIbJFGfaGP_uy6K0FEpREr4EuxMMxmUv&export=view&authuser=0" /> <h4>Español</h4></summary>
   
-  > # Hola, soy Sebastián 👋
-  >
-  > ###
-  >
-  > <p align="left">Soy estudiante de programación con una gran pasión por el desarrollo web frontend. Me encanta crear aplicaciones interactivas y eficientes. A medida que aprendo y crezco como programador, siempre busco nuevos proyectos para explorar y mejorar mis habilidades. En mi tiempo libre, me dedico a profundizar en mis conocimientos y experimentar con nuevas herramientas y técnicas.</p>
-  >
-  > - 📚 Actualmente estoy aprendiendo ...
-  >  - [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  >  - [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-  > - Fuera de la programación, disfruto hacer música 🎸 y jugar videojuegos 🎮.
-  > - ✉️ Podés contactarme a: [sebastianpaulluk@gmail.com](mailto:sebastianpaulluk@gmail.com)
-  >
-  > ###
-  >
-  > <h2 align="left">Mis habilidades incluyen</h2>
-  >
-  > ###
-  >
-  > <div align="left">
-  >  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="40" alt="html5 logo"  />
-  >  <img width="12" />
-  >  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" alt="css3 logo"  />
-  >  <img width="12" />
-  >  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="javascript logo"  />
-  >  <img width="12" />
-  >  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" height="40" alt="sass logo" />
-  >  <img width="12" />
-  >  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40" alt="react logo"  />
-  > </div>
-  >
-  > ###
-  >
-  > <h2 align="left">Perfiles</h2>
-  >
-  > [![LinkedIn][LinkedIn]][LinkedInURL]
-  > [![instragram][instragram]][instragramURL]
-  > [![facebook][facebook]][facebookURL]
-  >
+  # Hola, soy Sebastián 👋
+  
+  ###
+  
+  <p align="left">Soy estudiante de programación con una gran pasión por el desarrollo web frontend. Me encanta crear aplicaciones interactivas y eficientes. A medida que aprendo y crezco como programador, siempre busco nuevos proyectos para explorar y mejorar mis habilidades. En mi tiempo libre, me dedico a profundizar en mis conocimientos y experimentar con nuevas herramientas y técnicas.</p>
+  
+  - 📚 Actualmente estoy aprendiendo ...
+  - [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  - [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+  - Fuera de la programación, disfruto hacer música 🎸 y jugar videojuegos 🎮.
+  - ✉️ Podés contactarme a: [sebastianpaulluk@gmail.com](mailto:sebastianpaulluk@gmail.com)
+  
+  ###
+  
+  <h2 align="left">Mis habilidades incluyen</h2>
+  
+  ###
+  
+  <div align="left">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="40" alt="html5 logo"  />
+   <img width="12" />
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" alt="css3 logo"  />
+   <img width="12" />
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="javascript logo"  />
+   <img width="12" />
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" height="40" alt="sass logo" />
+   <img width="12" />
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40" alt="react logo"  />
+  </div>
+  
+  ###
+  
+  <h2 align="left">Perfiles</h2>
+  
+  [![LinkedIn][LinkedIn]][LinkedInURL]
+  [![instragram][instragram]][instragramURL]
+  [![facebook][facebook]][facebookURL]
+  
 </details>
 
 
