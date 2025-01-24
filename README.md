@@ -39,8 +39,8 @@
 <h2 align="left">Perfiles</h2>
 
 [![LinkedIn][LinkedIn]][LinkedInURL]
-[![facebook][facebook]][facebookURL]
 [![instragram][instragram]][instragramURL]
+[![facebook][facebook]][facebookURL]
 
  <!-- MARKDOWN LINKS & IMAGES -->
 [LinkedIn]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
