@@ -1,4 +1,4 @@
-<h1 align="center"> Hola, soy Sebastián Jonatan Paulluk 👋 </h1>
+# Hola, soy Sebastián Jonatan Paulluk 👋
 
 ###
 
