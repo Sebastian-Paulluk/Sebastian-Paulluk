@@ -51,8 +51,8 @@
   <p align="left">Soy estudiante de programación con una gran pasión por el desarrollo web frontend. Me encanta crear aplicaciones interactivas y eficientes. A medida que aprendo y crezco como programador, siempre busco nuevos proyectos para explorar y mejorar mis habilidades. En mi tiempo libre, me dedico a profundizar en mis conocimientos y experimentar con nuevas herramientas y técnicas.</p>
   
   - 📚 Actualmente estoy aprendiendo ...
-  - [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  - [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+    - [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+    - [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
   - Además de la programación, disfruto hacer música 🎸 y jugar videojuegos 🎮.
   - ✉️ Podés contactarme a: [sebastianpaulluk@gmail.com](mailto:sebastianpaulluk@gmail.com)
   
