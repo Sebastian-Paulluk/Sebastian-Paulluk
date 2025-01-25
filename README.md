@@ -42,7 +42,7 @@
 ---
 
 <details>
-   <summary> Español &nbsp; <img src="https://drive.usercontent.google.com/download?id=1TIbJFGfaGP_uy6K0FEpREr4EuxMMxmUv&export=view&authuser=0" />  </summary>
+   <summary> Español &nbsp; <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png" />  </summary>
   
   # Hola, soy Sebastián! 👋
   
